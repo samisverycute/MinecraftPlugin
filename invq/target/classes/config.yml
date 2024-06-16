@@ -1,0 +1,7 @@
+plugin-enabled-message: "&aInvq has been enabled"
+plugin-disabled-message: "&cInvq has been disabled"
+usage-message: "&cUsage: /invq [player]"
+player-not-found-message: "&cPlayer not found"
+items-dropped-message: "&aAll items from {player}'s inventory have been dropped"
+console-message: "&cThis command can only be used by players"
+no-permission-message: "&cYou don't have permission to do this"
