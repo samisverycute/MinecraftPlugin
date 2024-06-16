@@ -2,7 +2,7 @@ name: invq
 version: 1.0
 main: xiao.da.invq.Invq
 description: A plugin to drop a player's inventory items around them.
-author: XiaoDa_TW
+author: Samisverycute
 commands:
   invq:
     description: Drop all items from a player's inventory.
